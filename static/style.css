@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#recipeInput {
+    width: 100%;
+}
+
+#expandedRecipe {
+    margin-top: 20px;
+}
+
